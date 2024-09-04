@@ -1,2 +1,2 @@
 # Simple Game of Life in C++
-### Some stuff is problaly broken.I'll fix them.
+### Broken code.I'll take a look to it soon.
